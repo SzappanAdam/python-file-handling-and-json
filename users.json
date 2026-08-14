@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Adam",
+        "age": 22,
+        "student": true,
+        "languages": [
+            "Python",
+            "SQL"
+        ],
+        "active": true
+    },
+    {
+        "name": "Lisa",
+        "age": 20,
+        "student": true,
+        "languages": [
+            "Java",
+            "JavaScript"
+        ],
+        "city": "Budapest",
+        "active": true
+    },
+    {
+        "name": "Andrew",
+        "age": 34,
+        "languages": [
+            "Ruby"
+        ]
+    },
+    {
+        "name": "Emma",
+        "age": 24,
+        "student": true,
+        "languages": [
+            "Python"
+        ],
+        "active": true
+    }
+]

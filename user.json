@@ -1,1 +1,5 @@
-{"name": "Adam", "age": 21, "student": true, "languages": ["Python", "SQL"]}
+{
+    "name": "Adam",
+    "age": 22,
+    "city": "Budapest"
+}
